@@ -1,0 +1,12 @@
+C:\Users\GABERA\Desktop\GestionAcces\GestionAcces\bin\Debug\net7.0\GestionAcces.deps.json
+C:\Users\GABERA\Desktop\GestionAcces\GestionAcces\bin\Debug\net7.0\GestionAcces.dll
+C:\Users\GABERA\Desktop\GestionAcces\GestionAcces\bin\Debug\net7.0\GestionAcces.pdb
+C:\Users\GABERA\Desktop\GestionAcces\GestionAcces\obj\Debug\net7.0\GestionAcces.csproj.AssemblyReference.cache
+C:\Users\GABERA\Desktop\GestionAcces\GestionAcces\obj\Debug\net7.0\GestionAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABERA\Desktop\GestionAcces\GestionAcces\obj\Debug\net7.0\GestionAcces.AssemblyInfoInputs.cache
+C:\Users\GABERA\Desktop\GestionAcces\GestionAcces\obj\Debug\net7.0\GestionAcces.AssemblyInfo.cs
+C:\Users\GABERA\Desktop\GestionAcces\GestionAcces\obj\Debug\net7.0\GestionAcces.csproj.CoreCompileInputs.cache
+C:\Users\GABERA\Desktop\GestionAcces\GestionAcces\obj\Debug\net7.0\GestionAcces.dll
+C:\Users\GABERA\Desktop\GestionAcces\GestionAcces\obj\Debug\net7.0\refint\GestionAcces.dll
+C:\Users\GABERA\Desktop\GestionAcces\GestionAcces\obj\Debug\net7.0\GestionAcces.pdb
+C:\Users\GABERA\Desktop\GestionAcces\GestionAcces\obj\Debug\net7.0\ref\GestionAcces.dll
